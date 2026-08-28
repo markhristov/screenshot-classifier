@@ -1,0 +1,7 @@
+.gcloudignore
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.joblib
+.pytest_cache/
